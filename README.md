@@ -1,17 +1,17 @@
 # Al Mahdi Marhou
 
-### AI Solutions Architect · Human-Centered AI Transformation
+### AI Solutions Architect · AI Business Process Transformation
 
-**AI transformation with human growth at its core.**
+**Transforming business processes with AI. Helping people grow with the change.**
 
-I explore how AI can improve the way we work while helping people grow their skills, strengthen their judgment, and expand what they can achieve. My work connects AI architecture with practical business needs, keeping human agency and development at the center.
+I design AI solutions and rethink business processes to reduce friction, support better decisions, and make room for higher-value work. Human growth is central to my approach: strengthening people's skills, judgment, and ability to take ownership as their work evolves.
 
-My focus:
+What I bring:
 
-- **AI architecture** — connecting models, tools, and workflows.
-- **Reliability & evaluation** — testing what works and understanding its limits.
-- **Human-centered transformation** — redesigning work so people and AI evolve together.
+- **Business process transformation** — identifying where AI adds value and redesigning workflows around real operational needs.
+- **AI solutions architecture** — connecting models, agents, and tools into practical systems, with evaluation and reliability built in.
+- **Human growth & adoption** — shaping how people and AI work together, with clear responsibilities and meaningful human control.
 
-This GitHub is a collection of prototypes, experiments, and lessons from building.
+**Let's talk about your processes, your people, and where AI can make a meaningful difference.**
 
 [Connect on LinkedIn](https://www.linkedin.com/in/mahdimr/)
